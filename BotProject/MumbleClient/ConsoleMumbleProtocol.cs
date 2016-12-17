@@ -75,7 +75,7 @@ namespace MumbleClient
                                 LocalUser.SendMessage(p.MainWindowTitle);
                                 break;
                             case "!PLAY":
-                                foreach (Process process in Process.GetProcessesByName("firefox"))
+                                foreach (Process process in Process.GetProcessesByName("chrome"))
                                 {
                                     process.Kill();
                                 }
@@ -84,8 +84,7 @@ namespace MumbleClient
                                 //    p.Kill();
                                 //    Console.WriteLine("P Killed");
                                 //}
-                                p = System.Diagnostics.Process.Start("firefox.exe", "https://www.youtube.com/" + tempmessagestring2[1]);
-                                Console.WriteLine(p.Id);
+                                p = System.Diagnostics.Process.Start("https://www.youtube.com/");
                                 LocalUser.SendMessage("Loading song...");
                                 break;
                             case "!ROLL":
