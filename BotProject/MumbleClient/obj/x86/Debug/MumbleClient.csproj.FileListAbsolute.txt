@@ -1,0 +1,17 @@
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\Audio\Codecs\Opus\Libs\32bit\opus.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\Audio\Codecs\Opus\Libs\64bit\opus.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\server.txt
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\MumbleClient.exe
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\MumbleClient.pdb
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\MumbleSharp.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\NAudio.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\protobuf-net.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\MumbleSharp.pdb
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\NAudio.xml
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\protobuf-net.pdb
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\bin\Debug\protobuf-net.xml
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\obj\x86\Debug\MumbleClient.csprojResolveAssemblyReference.cache
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\obj\x86\Debug\MumbleClient.exe
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleClient\obj\x86\Debug\MumbleClient.pdb
+C:\Users\Dm2oo56\Git projects\MumbleBot\BotProject\MumbleClient\obj\x86\Debug\MumbleClient.exe
+C:\Users\Dm2oo56\Git projects\MumbleBot\BotProject\MumbleClient\obj\x86\Debug\MumbleClient.pdb

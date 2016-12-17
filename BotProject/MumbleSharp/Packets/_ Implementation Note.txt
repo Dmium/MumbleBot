@@ -1,0 +1,43 @@
+﻿Check out this file:
+
+https://github.com/mumble-voip/mumble/blob/master/src/Mumble.proto
+
+For the mumble.proto file in the official git repository
+message PermissionDenied { 
+245 	enum DenyType { 
+246 		// Operation denied for other reason, see reason field. 
+247 		Text = 0; 
+248 		// Permissions were denied. 
+249 		Permission = 1; 
+250 		// Cannot modify SuperUser. 
+251 		SuperUser = 2; 
+252 		// Invalid channel name. 
+253 		ChannelName = 3; 
+254 		// Text message too long. 
+255 		TextTooLong = 4; 
+256 		// The flux capacitor was spelled wrong. 
+257 		H9K = 5; 
+258 		// Operation not permitted in temporary channel. 
+259 		TemporaryChannel = 6; 
+260 		// Operation requires certificate. 
+261 		MissingCertificate = 7; 
+262 		// Invalid username. 
+263 		UserName = 8; 
+264 		// Channel is full. 
+265 		ChannelFull = 9; 
+266 		NestingLimit = 10; 
+267 	} 
+268 	// The denied permission when type is Permission. 
+269 	optional uint32 permission = 1; 
+270 	// channel_id for the channel where the permission was denied when type is 
+271 	// Permission. 
+272 	optional uint32 channel_id = 2; 
+273 	// The user who was denied permissions, identified by session. 
+274 	optional uint32 session = 3; 
+275 	// Textual reason for the denial. 
+276 	optional string reason = 4; 
+277 	// Type of the denial. 
+278 	optional DenyType type = 5; 
+279 	// The name that is invalid when type is UserName. 
+280 	optional string name = 6; 
+281 } 

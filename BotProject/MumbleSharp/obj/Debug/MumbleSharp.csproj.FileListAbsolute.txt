@@ -1,0 +1,15 @@
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\Audio\Codecs\Opus\Libs\32bit\opus.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\Audio\Codecs\Opus\Libs\64bit\opus.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\MumbleSharp.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\MumbleSharp.pdb
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\NAudio.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\NSpeex.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\protobuf-net.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\NAudio.xml
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\NSpeex.pdb
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\NSpeex.xml
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\protobuf-net.pdb
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\bin\Debug\protobuf-net.xml
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\obj\Debug\MumbleSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\obj\Debug\MumbleSharp.dll
+C:\Users\Dm2oo56\Documents\Visual Studio 2013\Projects\MumbleSharp-master\MumbleSharp\obj\Debug\MumbleSharp.pdb
